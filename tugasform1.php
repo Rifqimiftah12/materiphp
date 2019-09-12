@@ -1,6 +1,7 @@
 <html>
 <head><title><Rifqi Mifthudin</title></head>
 <body>
+<fieldset>
 <FORM ACTION="prosess1.php" METHOD="POST" NAME="input">
 <center><h1>PENGGAJIHAN KARYAWAN</h1></center>
 <table>
@@ -34,6 +35,7 @@
 </select></tr></td>
 <tr><br><td><input type="submit" name="input" value="Imput Data"></tr></td>
 </table>
+</fieldset>
 </FORM>
 </body>
 </html>
